@@ -17,6 +17,9 @@
         },
         {
             "m_Id": "21dd554aef2a441d90ffa0edf9c9fe20"
+        },
+        {
+            "m_Id": "0e07e656798c40ba9f4d021194222aea"
         }
     ],
     "m_Keywords": [],
@@ -499,6 +502,36 @@
 {
     "m_SGVersion": 3,
     "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
+    "m_ObjectId": "0e07e656798c40ba9f4d021194222aea",
+    "m_Guid": {
+        "m_GuidSerialized": "7ee470c2-f6c7-4bc9-967b-4d1a47240f4e"
+    },
+    "m_Name": "Color",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Color",
+    "m_DefaultReferenceName": "_Color",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+    },
+    "isMainColor": false,
+    "m_ColorMode": 0
+}
+
+{
+    "m_SGVersion": 3,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
     "m_ObjectId": "18e306250bcf459797d08ee4012a2d54",
     "m_Guid": {
         "m_GuidSerialized": "2efac1fc-2b72-45df-87c6-84260993030e"
@@ -568,10 +601,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 572.9999389648438,
-            "y": 241.00001525878907,
-            "width": 130.0001220703125,
-            "height": 118.00001525878906
+            "x": 558.0,
+            "y": 289.9999694824219,
+            "width": 208.0,
+            "height": 302.0000305175781
         }
     },
     "m_Slots": [
@@ -1192,6 +1225,9 @@
         },
         {
             "m_Id": "21dd554aef2a441d90ffa0edf9c9fe20"
+        },
+        {
+            "m_Id": "0e07e656798c40ba9f4d021194222aea"
         }
     ]
 }
@@ -1835,10 +1871,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 194.99998474121095,
-            "y": 570.0,
-            "width": 207.99998474121095,
-            "height": 301.99993896484377
+            "x": 173.0,
+            "y": 596.9999389648438,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
